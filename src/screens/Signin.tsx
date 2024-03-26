@@ -2,7 +2,7 @@ import { VStack, Image, Text, Center , Heading , ScrollView} from 'native-base';
 import BackgroundImg from '@assets/background.png';
 import LogoSVG from '@assets/logo.svg';
 import { Input } from 'src/Components/Input';
-import { Button } from '@components/Button';
+import { Button } from  'src/Components/Button';
 import { useNavigation } from '@react-navigation/native';
 import { AuthNavigatorRoutesProps } from '@routes/auth.routes';
 
